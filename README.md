@@ -1,2 +1,2 @@
-# digitalpro-webpage
-My Company website
+# digitalwebpage
+website
